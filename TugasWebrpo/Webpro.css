@@ -1,0 +1,235 @@
+/* Main */
+body {
+    background-color: #e7e6dd;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.heading {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+    height: 80px;
+    display: inline-block;
+}
+
+.navbar {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    margin-left: 55%;
+}
+
+.home {
+    color: #4285f4;
+}
+
+.about {
+    color: #db4437;
+}
+
+.hometown {
+    color: #f4b400;
+}
+
+.food {
+    color: #0f9d58;
+}
+
+.tourist {
+    color: black;
+}
+
+footer {
+    width: 95%;
+    background-color: rgb(255, 255, 255);
+}
+
+.main {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 95%;
+    height: 600px;
+    margin: auto auto;
+}
+
+.text1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+/* Homepage */
+.mainHome {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 95%;
+    height: 600px;
+    margin: auto auto;
+}
+
+.textDummy {
+    color: rgb(255, 255, 255);
+    text-align: right;
+    font-size: 50px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+}
+
+.textHome {
+    text-align: right;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: auto;
+    float: none;
+
+}
+
+.text1p5 {
+    margin-top: -20px;
+    text-align: right;
+    font-size: 23px;
+    align-items: left;
+    margin-right: 80px;
+}
+
+.text2 {
+    margin-top: -20px;
+    text-align: right;
+    font-size: 20px;
+    align-items: left;
+    margin-right: 80px;
+}
+
+.fotojepan {
+    height: 400px;
+    margin-top: -300px;
+    margin-left: 120px;
+    margin-right: auto;
+    display: block;
+    background-color: #e7e6dd;
+    border-radius: 30px;
+}
+
+/* Profile */
+.profileText2 {
+    margin-left: 35px;
+    text-align: left;
+}
+
+.profileText1{
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.myPic {
+    /* align-items: right; */
+    margin-left: 65%;
+    margin-top: -300px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.mainProfile {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 95%;
+    height: 650px;
+    /* padding: 10px; */
+    margin: auto auto;
+}
+
+/* Hometown */
+.ptBadak {
+    height: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+}
+
+.hometownText1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: justify
+}
+
+.mainHometown {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 95%;
+    height: 600px;
+    margin: auto auto;
+}
+
+.hometownText2 {
+    font-size: 15px;
+}
+
+/* food */
+
+.sambelGami {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 40%;
+    border-radius: 20px;
+}
+
+.foodText1 {
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: right;
+    font-size: 40;
+}
+
+.foodText2 {
+    font-size: 13px;
+}
+
+/* tourist */
+.mainTourist {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 95%;
+    height: 900px;
+    margin: auto auto;
+}
+
+.touristText1 {
+    margin-left: 70px;
+    margin-top: 110px;
+}
+
+.hutanMangrove {
+    float: right;
+    height: 30%;
+    border-radius: 20px;
+    margin-right: 60px;
+    margin-top: -250px;
+}
+
+.bontangKuala {
+    height: 32%;
+    margin-top: 170px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+
+.touristText2 {
+    float: right;
+    margin-top: -300px;
+    margin-right: 70px;
+    text-align: right;
+}
